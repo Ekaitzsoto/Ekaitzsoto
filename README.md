@@ -5,7 +5,15 @@
 He creado este perfil de GitHub para hacer diferentes proyectos en diferentes lenguajes de programación que he aprendido. También me va a servir para empezar con un hábito que me ayudará a tener presentes todos los conocimientos.
 
 ## Tecnologías que uso:
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/laravel-4479A1?style=for-the-badge&logo=laravel&logoColor=white&labelColor=#FF2D20)]()
+[![PHP](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![JAVA](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/-LARAVEL-ff0000.svg?colorA=555555&style=for-the-badge&logoWidth=21&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4NC4xIiBoZWlnaHQ9IjU3LjYiIHZpZXdCb3g9IjAgMCA4NC4xIDU3LjYiPjxwYXRoIGZpbGw9IiNGQjUwM0IiIGQ9Ik04My44IDI2LjljLS42LS42LTguMy0xMC4zLTkuNi0xMS45LTEuNC0xLjYtMi0xLjMtMi45LTEuMnMtMTAuNiAxLjgtMTEuNyAxLjljLTEuMS4yLTEuOC42LTEuMSAxLjYuNi45IDcgOS45IDguNCAxMmwtMjUuNSA2LjFMMjEuMiAxLjVjLS44LTEuMi0xLTEuNi0yLjgtMS41QzE2LjYuMSAyLjUgMS4zIDEuNSAxLjNjLTEgLjEtMi4xLjUtMS4xIDIuOVMxNy40IDQxIDE3LjggNDJjLjQgMSAxLjYgMi42IDQuMyAyIDIuOC0uNyAxMi40LTMuMiAxNy43LTQuNiAyLjggNSA4LjQgMTUuMiA5LjUgMTYuNyAxLjQgMiAyLjQgMS42IDQuNSAxIDEuNy0uNSAyNi4yLTkuMyAyNy4zLTkuOCAxLjEtLjUgMS44LS44IDEtMS45LS42LS44LTctOS41LTEwLjQtMTQgMi4zLS42IDEwLjYtMi44IDExLjUtMy4xIDEtLjMgMS4yLS44LjYtMS40em0tNDYuMyA5LjVjLS4zLjEtMTQuNiAzLjUtMTUuMyAzLjctLjguMi0uOC4xLS44LS4yLS4yLS4zLTE3LTM1LjEtMTcuMy0zNS41LS4yLS40LS4yLS44IDAtLjhTMTcuNiAyLjQgMTggMi40Yy41IDAgLjQuMS42LjQgMCAwIDE4LjcgMzIuMyAxOSAzMi44LjQuNS4yLjctLjEuOHptNDAuMiA3LjVjLjIuNC41LjYtLjMuOC0uNy4zLTI0LjEgOC4yLTI0LjYgOC40LS41LjItLjguMy0xLjQtLjZzLTguMi0xNC04LjItMTRMNjguMSAzMmMuNi0uMi44LS4zIDEuMi4zLjQuNyA4LjIgMTEuMyA4LjQgMTEuNnptMS42LTE3LjZjLS42LjEtOS43IDIuNC05LjcgMi40bC03LjUtMTAuMmMtLjItLjMtLjQtLjYuMS0uNy41LS4xIDktMS42IDkuNC0xLjcuNC0uMS43LS4yIDEuMi41LjUuNiA2LjkgOC44IDcuMiA5LjEuMy4zLS4xLjUtLjcuNnoiLz48L3N2Zz4=)]()
+[![SpringBoot](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-4479A1?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/Sass-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JQuery-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
