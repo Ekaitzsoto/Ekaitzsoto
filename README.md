@@ -26,4 +26,4 @@ He creado este perfil de GitHub para hacer diferentes proyectos en diferentes le
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
 ## Status Proyectos
-[![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale)]()
+[![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale?style=for-the-badge)]()
