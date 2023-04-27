@@ -5,22 +5,22 @@
 He creado este perfil de GitHub para hacer diferentes proyectos en diferentes lenguajes de programación que he aprendido. También me va a servir para empezar con un hábito que me ayudará a tener presentes todos los conocimientos.
 
 ## Tecnologías que uso:
-[![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-#777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![JAVA](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+[![SpringBoot](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![JQuery](https://img.shields.io/badge/JQuery-4479A1?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 
-##Herramientas:
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
-[![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![Sublime](https://img.shields.io/badge/Sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
+## Herramientas:
+[![Eclipse](https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
+[![VisualStudio](https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![Sublime](https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white&labelColor=101010)]()
-[![Git Bash](https://img.shields.io/badge/GitBash-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Git Bash](https://img.shields.io/badge/Git Bash-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
