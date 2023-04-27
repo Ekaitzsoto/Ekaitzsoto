@@ -25,5 +25,5 @@ He creado este perfil de GitHub para hacer diferentes proyectos en diferentes le
 [![Git Bash](https://img.shields.io/badge/GitBash-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
-## Status Proyectos
-[![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale?style=for-the-badge)]()
+## LAST COMMITS
+[![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale?label=Moustache%20BATTLE%20ROYALE&style=for-the-badge)]()
