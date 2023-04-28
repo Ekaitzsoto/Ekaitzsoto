@@ -1,8 +1,8 @@
 # Hola, mi nombre es Ekaitz Soto👋
-### Desarrollador de Aplicaciones Web full-stack
+### Desarrollador de Aplicaciones Web full-stack.
 ![https://github.com/Ekaitzsoto](https://raw.githubusercontent.com/ekaitzsoto/ekaitzsoto/master/ekaitz_soto_banner.png)
 
-He creado este perfil de GitHub para hacer diferentes proyectos en diferentes lenguajes de programación que he aprendido. También me va a servir para empezar con un hábito que me ayudará a tener presentes todos los conocimientos.
+He creado este perfil de GitHub para hacer distintos proyectos en diferentes lenguajes de programación que he aprendido.<br/>Uno de los objetivos que tengo es crear un hábito de programación que me ayudará a tener presentes y a mejorar todos los conocimientos que no utilizo en el trabajo.
 
 ## Tecnologías que uso:
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
