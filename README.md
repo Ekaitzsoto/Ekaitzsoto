@@ -1,5 +1,5 @@
-# Bienvenido 👋
-### Soy Desarrollador de Aplicaciones Web full-stack
+# Bienvenido👋, soy Ekaitz Soto
+### Desarrollador de Aplicaciones Web full-stack
 ![https://github.com/Ekaitzsoto](https://raw.githubusercontent.com/ekaitzsoto/ekaitzsoto/master/ekaitz_soto_banner.png)
 
 He creado este perfil de GitHub para hacer diferentes proyectos en diferentes lenguajes de programación que he aprendido. También me va a servir para empezar con un hábito que me ayudará a tener presentes todos los conocimientos.
