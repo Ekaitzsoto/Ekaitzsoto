@@ -23,6 +23,7 @@ He creado este perfil de GitHub para hacer distintos proyectos en diferentes len
 [![Sublime](https://img.shields.io/badge/SublimeText-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white&labelColor=101010)]()
 [![Git Bash](https://img.shields.io/badge/GitBash-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
 ## Últimos Commits:
