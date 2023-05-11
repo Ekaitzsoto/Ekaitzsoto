@@ -31,3 +31,7 @@ He creado este perfil de GitHub para hacer distintos proyectos en diferentes len
 Laravel:
 
 [![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale?label=MOUSTACHE%20BATTLE%20ROYALE&style=for-the-badge)]()
+
+HTML, CSS, Javascript:
+
+[![TaskList](https://img.shields.io/github/last-commit/Ekaitzsoto/TaskList?label=TASK%20LIST&style=for-the-badge)]()
