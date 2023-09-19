@@ -30,7 +30,7 @@ He creado este perfil de GitHub para hacer distintos proyectos en diferentes len
 ## Últimos Commits:
 Laravel:
 
-![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/EkaitzSoto/MoustacheBattleRoyale/master?style=for-the-badge&label=MOUSTACHE%20BATTLE%20ROYALE&link=https%3A%2F%2Fgithub.com%2FEkaitzsoto%2FMoustacheBattleRoyale%2Freleases)
+[![MoustacheBattleRoyale](https://img.shields.io/github/last-commit/Ekaitzsoto/MoustacheBattleRoyale?label=MOUSTACHE%20BATTLE%20ROYALE&style=for-the-badge)]()
 
 
 HTML, CSS, Javascript:
