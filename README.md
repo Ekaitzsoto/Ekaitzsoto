@@ -2,7 +2,7 @@
 ### Desarrollador de Aplicaciones Web full-stack con 1 año de experiencia laboral.
 ![https://github.com/Ekaitzsoto](https://raw.githubusercontent.com/ekaitzsoto/ekaitzsoto/master/ekaitz_soto_banner.png)
 
-He creado este perfil de GitHub para hacer distintos proyectos en diferentes lenguajes de programación que he aprendido.<br/>Uno de los objetivos que tengo es crear un hábito de programación que me ayudará a tener presentes y a mejorar todos los conocimientos que no utilizo en el trabajo.
+He creado este perfil de GitHub para hacer distintos proyectos en diferentes lenguajes de programación que he aprendido.<br/>Uno de los objetivos que tengo es programar en aquellos lenguajes que no utilizo en el trabajo. Esto me ayudará a tenerlos presentes y a mejorar todos los conocimientos que voy adquiriendo cada vez que me encuentro con nuevas situaciones o intento aplicar nuevas ideas a mis aplicaciones.
 
 ## Tecnologías que uso:
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
